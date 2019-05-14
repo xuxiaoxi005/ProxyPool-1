@@ -116,3 +116,5 @@ def get_proxy():
 ## 项目参考
 
 [https://github.com/WiseDoge/ProxyPool](https://github.com/WiseDoge/ProxyPool)
+### 注意
+Python3中通过fake_useragent生成随机UserAgent
